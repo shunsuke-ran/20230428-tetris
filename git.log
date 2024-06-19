@@ -1,0 +1,19 @@
+commit 85f4e4dddf5408da3661b44b72645fe403c4195d
+Author: shunsuke-ran <221205076@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:48:55 2023 +0900
+
+    ミノが落ちてくる速度を変更
+    
+    大幅に遅くした
+
+commit 0c80aaf62f490c5b5e363f7c306114ea65091255
+Author: shunsuke-ran <221205076@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:39:35 2023 +0900
+
+    ピースの色をgreenからlimeに変更
+
+commit 6345d3c89591b96b7fb3f9bd576804056ab029f2
+Author: shunsuke-ran <221205076@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 15:23:36 2023 +0900
+
+    canvas-tetrisのソースコードをインポート
